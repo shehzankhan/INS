@@ -1,0 +1,9 @@
+you have to save file name as a class name **
+
+step 1: upon cammand prompt step 2: set Path "bin folder"
+
+step 3: cd "where you save that file"
+
+step 4: javac: "File name".java
+
+step 5: 1 error is not there. Java "filename" you have to save file name as a class name with java
